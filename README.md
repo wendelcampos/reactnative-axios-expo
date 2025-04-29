@@ -22,11 +22,14 @@ Este é o repositório do Frontend do projeto Restaurante Pedrão desenvolvido p
     ```bash
     npm install
     ```
-3. Inicie o servidor:
+3. Certifique-se de ter um dos seguintes requisitos:
+    - Um emulador configurado no Android Studio.
+    - O aplicativo **Expo Go** instalado em um dispositivo físico.
+4. Inicie o servidor:
     ```bash
     npm start
     ```
-4. Execute o aplicativo no Expo.
+5. Execute o aplicativo no Expo.
 
 ## Contribuição
 
